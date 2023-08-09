@@ -37,8 +37,8 @@ https://raw.githubusercontent.com/{userName}/stackoverflow-badge/master/stackove
 ## 🛠 Config
 The script can be configured to generate a badge for any user:
 * `userID`: User-Id which can be found in your profile URL.  
-   Example url: https://stackoverflow.com/users/4198170/tobse  
-   `userID` = `4198170`
+   Example url: https://stackoverflow.com/users/370286/blowsie  
+   `userID` = `370286`
 * `userName`: Your username on StackOverflow (case-sensitive!).  
    Used to ensure the fetched id returns the correct user.
 * `cron`: You can change the update time interval in the `.github/workflows/main.yml`:  
