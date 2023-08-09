@@ -35,9 +35,9 @@
 		<text transform="matrix(1 0 0 1 518.4951 139.1691)" class="st7 st5 st8">${bronze}</text>
 		<text transform="matrix(1 0 0 1 428.8154 139.1691)" class="st7 st5 st8">${silver}</text>
 		<text transform="matrix(1 0 0 1 337.2344 139.1691)" class="st7 st5 st8">${gold}</text>
-		<circle class="st9" cx="317.7" cy="123" r="12.9"/>
-		<circle class="st10" cx="406.4" cy="123" r="12.9"/>
-		<circle class="st11" cx="498" cy="123" r="12.9"/>
+		<circle class="st9" cx="317.7" cy="128" r="12.9"/>
+		<circle class="st10" cx="406.4" cy="128" r="12.9"/>
+		<circle class="st11" cx="498" cy="128" r="12.9"/>
 	</g>
 </g>
 <g id="Layer_2_00000129905321798302084830000002118231201492230333_">
