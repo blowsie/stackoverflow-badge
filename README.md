@@ -4,7 +4,7 @@ This is a Stack-Overflow-Badge SVG graphic which gets automatically updated by a
 It displays an overview for your [StackOverflow badges](https://stackoverflow.com/help/badges) and your reputation.
 
 This is an alternative to the official flair you can find on your
-[StackOverflow prile page](your profile's Site Settings) under _SITE SETTINGS > Flair_.
+[StackOverflow profile page](your profile's Site Settings) under _SITE SETTINGS > Flair_.
 Unfortunately the original flair images have a very low resolution the configuration is very limited.
 This is why I desisnged my own flair and wrote this script to keep it up to date.
 
@@ -12,7 +12,7 @@ This is why I desisnged my own flair and wrote this script to keep it up to date
 ![stackoverflow-badge](https://raw.githubusercontent.com/blowsie/stackoverflow-badge/master/stackoverflow-badge.svg)
 
 ### Old Flair Badge
-![old flair](https://stackoverflow.com/users/flair/4198170.png?theme=dark)
+![old flair](https://stackoverflow.com/users/flair/370286.png?theme=dark)
 
 
 ## ⭐ Features
