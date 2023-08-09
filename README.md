@@ -9,7 +9,7 @@ Unfortunately the original flair images have a very low resolution the configura
 This is why I desisnged my own flair and wrote this script to keep it up to date.
 
 ### New Flair Badge
-![stackoverflow-badge](https://raw.githubusercontent.com/TobseF/stackoverflow-badge/master/stackoverflow-badge.svg)
+![stackoverflow-badge](https://raw.githubusercontent.com/blowsie/stackoverflow-badge/master/stackoverflow-badge.svg)
 
 ### Old Flair Badge
 ![old flair](https://stackoverflow.com/users/flair/4198170.png?theme=dark)
